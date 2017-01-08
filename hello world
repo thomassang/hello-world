@@ -1,0 +1,7 @@
+//# hello-world
+//c语言编写，最简单的程序
+# include <stdio.h>
+main()
+{
+  printf("hello world \n");
+}
